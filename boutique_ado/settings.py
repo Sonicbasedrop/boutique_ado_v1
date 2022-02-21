@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-#evab_duen)h3fugste^ib*#4-*c43mabnm1ly#)yxh44d(()s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sonicbasedrop-boutique-ado-v1', 'localhost']
+ALLOWED_HOSTS = ['sonicbasedrop-boutique-ado-v1.herokuapp.com', 'localhost']
 
 
 # Application definition
